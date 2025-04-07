@@ -6,7 +6,6 @@ __pycache__/
 *.py[cod]
 
 # Ignore only the lib folder inside your virtual environment
-llama_env/lib/
 
 # Optional: ignore backup files and system-specific junk
 *.bak
